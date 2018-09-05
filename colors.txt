@@ -1,6 +1,3 @@
 blue
 red
 white
-black
-yellow
-purple
